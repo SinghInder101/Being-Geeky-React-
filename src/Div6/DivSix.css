@@ -1,0 +1,18 @@
+.DivSix{
+    background-color:  #476F70;
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 3%;
+
+}
+ul{
+    display: inline-block;
+    list-style-type: none;
+    color:#CCCCCC;
+ 
+}
+.footer-cols{
+    display: flex;
+    justify-content: space-around;
+}

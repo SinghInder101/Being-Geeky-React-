@@ -1,0 +1,16 @@
+.DivTwo{
+    
+    width: 100%;
+    background-color: #476F70;
+    padding:5% 10%;
+    box-sizing: border-box;
+    overflow: none;
+    text-align: center;
+
+}
+.ipadimg{
+  height:60%;
+  width: 60%;
+
+    border-radius: 1%;
+}
